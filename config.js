@@ -30,7 +30,9 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
-        //"今天是你的生日": "./imgs/birthday.jpg",
+        "虽然认识时间不长": "./imgs/1.png",
+        "在这个特殊的日子里": "./imgs/2.jpg",
+        "愿你贪吃不胖": "./imgs/3.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
