@@ -28,7 +28,6 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/xiaokeai.png",
         "心爱的小可爱": "./imgs/xiaokeai.png",
         "今天是你的生日": "./imgs/birthday.jpg",
         "虽然认识时间不长": "./imgs/1.png",
@@ -39,6 +38,7 @@ var config = {
         "愿你懒惰不丑": "./imgs/2.jpg",
         "愿你做过的美梦全部实现": "./imgs/beauty.png",
         "愿你每个晨曦都绽放笑颜": "./imgs/beauty.png",
+        "Wishes From Mr.Wu！": "./imgs/wishes.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
