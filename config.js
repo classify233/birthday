@@ -32,12 +32,11 @@ var config = {
         "今天是你的生日": "./imgs/birthday.jpg",
         "虽然认识时间不长": "./imgs/1.png",
         "但我相信缘分会让我们一直走下去": "./imgs/way.jpg",
-        "在这个特殊的日子里": "./imgs/birthday.jpg",
         "我想把最真挚的祝福送给你": "./imgs/3.jpg",
         "愿你贪吃不胖": "./imgs/food.png",
         "愿你懒惰不丑": "./imgs/2.jpg",
         "愿你做过的美梦全部实现": "./imgs/beauty.png",
-        "愿你每个晨曦都绽放笑颜": "./imgs/beauty.png",
+        "愿你每个晨曦都绽放笑颜": "./imgs/smile.png",
         "Wishes From Mr.Wu！": "./imgs/wishes.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
